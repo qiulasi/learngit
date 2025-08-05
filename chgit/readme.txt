@@ -1,1 +1,1 @@
-Creating a new branch is quick and simplie.
+Creating a new branch is quick and simplie (dev).
